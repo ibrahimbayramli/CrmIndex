@@ -1,11 +1,11 @@
 repo_name: ibrahimbayramli/CrmIndex
-report_id: d0c113a96c04b66f2c7308422a84841c
+report_id: 81f2e9a350d72bad650f0550143aef61
 repo_type: Public
-timestamp: '2023-11-09T21:40:36+00:00'
+timestamp: '2023-12-14T09:55:53+00:00'
 requested_by: ibrahimbayramli
 provider: github
 branch: main
-detected_tools_count: 1
+detected_tools_count: 2
 tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -16,3 +16,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: ibrahimbayramli
+  last_updated_on: 2022-09-04 21:14:27.000000000 Z
